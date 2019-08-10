@@ -1,3 +1,2 @@
 # Manga-Reader
-Proyecto que sirve para leer comics o lo que la imaginacion de...
 //TEMPORARY CODE, I HOPE HOPE HOPE
